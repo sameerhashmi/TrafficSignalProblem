@@ -45,7 +45,7 @@ Or using curl command
 curl http://<hostname>:8080/
 ```
 
-The output can be seen on the console.
+**The output can be seen on the console.**
 
 ## Configuration
 
