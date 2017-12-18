@@ -33,3 +33,16 @@ Or using curl command
 ```
 curl http://<hostname>:8080/
 ```
+
+## Configuration
+
+In application.properties, there are two properties which can be set.
+
+Initially these are values set:
+
+traffic.red.light.frequency=4
+traffic.operatrion.frequency=20
+
+## Author
+
+Sameer Hashmi
