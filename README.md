@@ -24,6 +24,12 @@ The application will run on the default port 8080
 It exposes a basic endpoint which will initiate the traffic control will return a HTTP Status of 200.
 The output can be seen on the console.
 
+If this application needs to be run as the package then execute the below command from the project folder
+
+```
+java -jar target/TrafficSignalProblem-0.0.1-SNAPSHOT.jar
+```
+
 Use any Rest client to hit the endpoint
 ```
 http://<hostname>:8080/
